@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@keyframes blink {
+  0%,
+  100% {
+    background-color: white;
+  }
+  50% {
+    background-color: #ffeaea;
+  }
+}
+
+.blink-card {
+  animation: blink 1s infinite;
+  border: 2px solid red;
+}

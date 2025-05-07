@@ -1,0 +1,22 @@
+export const data = [
+  { id: 1, device: "Modu Night jacket", status: true, time: "8/20/2024" },
+  { id: 2, device: "LG Wink Style T310", status: false, time: "8/1/2024" },
+  { id: 3, device: "Philips F322", status: true, time: "4/8/2024" },
+  { id: 4, device: "Samsung Galaxy A52 5G", status: true, time: "1/28/2025" },
+  { id: 5, device: "ZTE F233", status: true, time: "3/30/2024" },
+  { id: 6, device: "Micromax X1i", status: true, time: "12/17/2024" },
+  { id: 7, device: "Lenovo S5000", status: true, time: "12/1/2024" },
+  { id: 8, device: "Philips D813", status: true, time: "3/18/2024" },
+  { id: 9, device: "Honor 7C", status: true, time: "9/16/2024" },
+  { id: 10, device: "i-mobile 510", status: false, time: "5/16/2024" },
+  { id: 11, device: "Tecno Camon 12", status: false, time: "3/5/2024" },
+  { id: 12, device: "HTC Desire 501", status: true, time: "6/18/2024" },
+  {
+    id: 13,
+    device: "Posh Equal Pro LTE L700",
+    status: false,
+    time: "3/29/2024",
+  },
+  { id: 14, device: "Haier V100", status: true, time: "4/24/2024" },
+  { id: 15, device: "Apple iPhone X", status: false, time: "4/25/2024" },
+];
